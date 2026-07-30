@@ -15,7 +15,7 @@ Perfil técnico Junior orientado a la Ciberseguridad, Soporte IT e Infraestructu
 
 ### 🌐 Mis Redes y Contenido
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@m4-te))
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@m4-te)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-bustamante-7a111b290/)
 
 ### Proyectos Destacados
