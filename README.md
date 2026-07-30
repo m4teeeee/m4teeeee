@@ -52,11 +52,11 @@ Perfil técnico junior orientado a Seguridad Informática, Soporte IT, Administr
 
 ### 🎓 Formación Académica, Estudios y Trabajos
 
-* **Licenciatura en Ciberseguridad** | Instituto Universitario de la Policía Federal Argentina. (2026 - Actualidad)[cite: 1].
-* **Licenciatura en Ciberseguridad** | Universidad de Palermo. (2023 - Agosto 2025)[cite: 1].
+* **Licenciatura en Ciberseguridad** | Instituto Universitario de la Policía Federal Argentina. (2026 - Actualidad).
+* **Licenciatura en Ciberseguridad** | Universidad de Palermo. (2023 - Agosto 2025).
 
 **Educación Complementaria:**
-* **Curso de Ciberseguridad de Google (Coursera)** | Formación en fundamentos de seguridad, operaciones y preparación orientada a CompTIA Security+. (2026 - Actualidad)[cite: 1].
-* **Introducción a la Programación (Python)** | Universidad de Palermo (2023)[cite: 1].
-* **Computación Aplicada (Debian)** | Universidad de Palermo (2023): Experiencia en la configuración y administración de redes en entornos Linux, IP, Switching, resolución de problemas de red, capaz de realizar tareas de desarrollo y administración de este OS[cite: 1].
-* **Curso completo de Python** | Mastermind - Nate Gentile (2022)[cite: 1].
+* **Curso de Ciberseguridad de Google (Coursera)** | Formación en fundamentos de seguridad, operaciones y preparación orientada a CompTIA Security+. (2026 - Actualidad).
+* **Introducción a la Programación (Python)** | Universidad de Palermo (2023).
+* **Computación Aplicada (Debian)** | Universidad de Palermo (2023): Experiencia en la configuración y administración de redes en entornos Linux, IP, Switching, resolución de problemas de red, capaz de realizar tareas de desarrollo y administración de este OS.
+* **Curso completo de Python** | Mastermind - Nate Gentile (2022).
