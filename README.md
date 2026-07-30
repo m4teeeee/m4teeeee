@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Sobre Mí
 
-Perfil técnico junior orientado a Seguridad Informática, Soporte IT, Administración de Sistemas e Infraestructura, con base sólida en Linux, Windows, Redes, Virtualización y Operaciones de Sistemas[cite: 1]. Tengo formación universitaria en Ciberseguridad (en trasición de institución) y capacitación continua en Seguridad Informática y buenas prácticas operativas[cite: 1]. Cuento con experiencia prácica en entornos Windows y Linux, resolución de incidentes, mantenimiento de sistemas y documentación técnica[cite: 1]. Capacidad para integrarme en equipos de soporte, infraestructura o Seguridad Operativa[cite: 1].
+Perfil técnico junior orientado a Seguridad Informática, Soporte IT, Administración de Sistemas e Infraestructura, con base sólida en Linux, Windows, Redes, Virtualización y Operaciones de Sistemas. Tengo formación universitaria en Ciberseguridad (en trasición de institución) y capacitación continua en Seguridad Informática y buenas prácticas operativas. Cuento con experiencia prácica en entornos Windows y Linux, resolución de incidentes, mantenimiento de sistemas y documentación técnica. Capacidad para integrarme en equipos de soporte, infraestructura o Seguridad Operativa.
 
 ---
 
