@@ -8,7 +8,15 @@ Perfil técnico Junior orientado a la Ciberseguridad, Soporte IT e Infraestructu
 
 * 🐧 **Linux como filosofía:** Hace 3 años adopté Linux como mi entorno principal de estudio y uso diario, lo que me dio una base muy sólida y práctica para moverme con soltura en la terminal y administrar sistemas operativos.
 * 🔧 **Hardware y Soporte:** Cuento con experiencia práctica en el armado de PCs, mantenimiento preventivo/correctivo y diagnóstico profundo de hardware (análisis de discos, testeos, etc.).
+* 🎥 **Creación de Contenido:** Me encanta compartir lo que aprendo. Tengo un canal de YouTube donde subo contenido sobre programación y el ecosistema Linux, lo que me ayuda a consolidar mis conocimientos mientras aporto a la comunidad.
 * 📚 **Enfoque actual:** Construir bases fuertes. No solo busco aprender a usar herramientas, sino comprender cómo funcionan los protocolos y sistemas por debajo.
+
+---
+
+### 🌐 Mis Redes y Contenido
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@m4-te))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-bustamante-7a111b290/)
 
 ### Proyectos Destacados
 
