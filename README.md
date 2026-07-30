@@ -2,7 +2,7 @@
 
 ---
 
-### 👨‍💻 Sobre Mí
+### Sobre Mí
 
 Perfil técnico Junior orientado a la Ciberseguridad, Soporte IT e Infraestructura. Actualmente soy estudiante universitario de la Licenciatura en Ciberseguridad y un apasionado por el autoaprendizaje en fundamentos de redes, sistemas y seguridad informática. 
 
@@ -10,7 +10,7 @@ Perfil técnico Junior orientado a la Ciberseguridad, Soporte IT e Infraestructu
 * 🔧 **Hardware y Soporte:** Cuento con experiencia práctica en el armado de PCs, mantenimiento preventivo/correctivo y diagnóstico profundo de hardware (análisis de discos, testeos, etc.).
 * 📚 **Enfoque actual:** Construir bases fuertes. No solo busco aprender a usar herramientas, sino comprender cómo funcionan los protocolos y sistemas por debajo.
 
-### 🚀 Proyectos Destacados
+### Proyectos Destacados
 
 **Homelab de Seguridad e Infraestructura Virtualizada**
 Despliegue y administración de un servidor doméstico utilizando **Proxmox VE**, arquitectado para mantener la seguridad de mi red principal mientras opero servicios personales y laboratorios de hacking. 
@@ -21,7 +21,7 @@ Despliegue y administración de un servidor doméstico utilizando **Proxmox VE**
 
 ---
 
-### 🛠️ Competencias
+### Competencias
 
 **Lenguajes de Programación**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -63,7 +63,7 @@ Despliegue y administración de un servidor doméstico utilizando **Proxmox VE**
 
 ---
 
-### 🎓 Formación Académica, Estudios y Trabajos
+### Formación Académica, Estudios y Trabajos
 
 * **Licenciatura en Ciberseguridad** | Instituto Universitario de la Policía Federal Argentina. (2026 - Actualidad).
 * **Licenciatura en Ciberseguridad** | Universidad de Palermo. (2023 - Agosto 2025).
