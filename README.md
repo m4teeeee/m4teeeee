@@ -4,7 +4,20 @@
 
 ### 👨‍💻 Sobre Mí
 
-Perfil técnico junior orientado a Seguridad Informática, Soporte IT, Administración de Sistemas e Infraestructura, con base sólida en Linux, Windows, Redes, Virtualización y Operaciones de Sistemas. Tengo formación universitaria en Ciberseguridad (en trasición de institución) y capacitación continua en Seguridad Informática y buenas prácticas operativas. Cuento con experiencia prácica en entornos Windows y Linux, resolución de incidentes, mantenimiento de sistemas y documentación técnica. Capacidad para integrarme en equipos de soporte, infraestructura o Seguridad Operativa.
+Perfil técnico Junior orientado a la Ciberseguridad, Soporte IT e Infraestructura. Actualmente soy estudiante universitario de la Licenciatura en Ciberseguridad y un apasionado por el autoaprendizaje en fundamentos de redes, sistemas y seguridad informática. 
+
+* 🐧 **Linux como filosofía:** Hace 3 años adopté Linux como mi entorno principal de estudio y uso diario, lo que me dio una base muy sólida y práctica para moverme con soltura en la terminal y administrar sistemas operativos.
+* 🔧 **Hardware y Soporte:** Cuento con experiencia práctica en el armado de PCs, mantenimiento preventivo/correctivo y diagnóstico profundo de hardware (análisis de discos, testeos, etc.).
+* 📚 **Enfoque actual:** Construir bases fuertes. No solo busco aprender a usar herramientas, sino comprender cómo funcionan los protocolos y sistemas por debajo.
+
+### 🚀 Proyectos Destacados
+
+**Homelab de Seguridad e Infraestructura Virtualizada**
+Despliegue y administración de un servidor doméstico utilizando **Proxmox VE**, arquitectado para mantener la seguridad de mi red principal mientras opero servicios personales y laboratorios de hacking. 
+
+* **Segmentación de Red y Firewall:** Implementación de una máquina virtual con **pfSense** actuando como firewall intermediario. Esto me permite aislar los entornos, administrar el tráfico de manera centralizada y utilizar plugins de monitoreo y alertas.
+* **Entorno de Servicios Personales:** Gestión de VMs dedicadas a almacenamiento en red, gestión de contraseñas, repositorio de ISOs y servidor multimedia.
+* **Entorno de Hacking Ético:** Entorno completamente aislado y seguro diseñado específicamente para resolver máquinas en plataformas como *HackTheBox*, sin riesgo de exponer mis dispositivos personales.
 
 ---
 
